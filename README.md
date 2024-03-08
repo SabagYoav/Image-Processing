@@ -6,6 +6,6 @@ This repository focuses at image processing, manipulating images to meet the req
 ## Models Description
 | File Name  |Task  | Framework    | Metrics       | GPU |  Dataset | Models | 
 | ----- | ------------ | ------------- |---- | ---------- | ------- |------- |
-| Synthetic Dataset for Face reconstruction | Creat a synthetic dataset with face and the eyes of the face | cv2 | Accuracy | Tesla T4 | celeb a| 
+| Synthetic Dataset for Face reconstruction | Creat a synthetic dataset with face and the eyes of the face | OpenCV | Accuracy | Tesla T4 | celeb a| 
 
 
