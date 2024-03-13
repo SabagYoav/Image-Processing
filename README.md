@@ -1,7 +1,7 @@
 # Image-Processing
 
 ## Introduction
-This repository focuses at image processing, manipulating images to meet the requierments of the task
+This repository presents image processing projects, in this projects I train models to manipulat images to meet the requierments of the task
 
 ## Models Description
 | File Name  |Task  | Framework    | Metrics       | GPU |  Dataset | Models | 
